@@ -3,6 +3,12 @@ body {
   margin: 0;
 }
 
+@media screen and (min-width: 1024px ) {
+  .App {
+    margin-top: 20% !important;
+  }
+}
+
 .App {
   font-size: 14px;
   height: 100%;
